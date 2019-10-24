@@ -32,4 +32,4 @@ The main goal of our project is to price the tranches of an Mortgage Backed Secu
    </tr>      
 </table>
 <br>
-In this document we first calibrate the parameters for the double t-Student model under the assumption of the Large Homogeneous Portfolio (LHP) and then we do the same for the t-Student model. Using these optimal parameters we price the tranches under LHP and HP (Homogeneous Porfolio) assumptions and KL (Kullback-Leibler) approximation and compare the results. Finally we calibrate the parmeters of our models considering the KL approximation.
+In this project we first calibrate the parameters for the double t-Student model under the assumption of the Large Homogeneous Portfolio (LHP) and then we do the same for the t-Student model. Using these optimal parameters we price the tranches under LHP and HP (Homogeneous Porfolio) assumptions and KL (Kullback-Leibler) approximation and compare the results. Finally we calibrate the parmeters of our models considering the KL approximation.
